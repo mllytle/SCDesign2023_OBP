@@ -2,6 +2,7 @@
 #define INSTRUCTION_H
 #include "Flag.h"
 
+// define class
 class Instruction {
     private:
         int target;

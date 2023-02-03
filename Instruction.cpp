@@ -2,7 +2,7 @@
 #include "Instruction.h"
 #include "Flag.h"
 
-// Instrucion Constructor
+// Instruction Constructor
 Instruction::Instruction(int t, Flag f){
     target = t;
     flaglist = f;
